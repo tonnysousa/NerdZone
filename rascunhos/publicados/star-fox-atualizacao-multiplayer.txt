@@ -1,0 +1,37 @@
+# MODELO DE ARTIGO — notícia NerdZone
+# Categoria: Jogos
+# Imagem principal em proporção 16:9, adequada para o painel.
+
+titulo: Star Fox recebe atualização gratuita com multiplayer para até quatro jogadores no Switch 2
+categoria: Jogos
+descricao: Star Fox ganhou uma atualização gratuita no Nintendo Switch 2 com modo batalha local e online, além de três novas fases.
+data: 2026-09-29
+tag: ATUALIZAÇÃO
+imagem: https://assets.nintendo.com/image/upload/q_auto:best/f_auto/c_fill,w_813/dpr_2.0/ncom/en_US/articles/2026/blast-off-into-high-octane-adventure-with-added-multiplayer-content-for-star-fox-available-now-on-nintendo-switch-2/2250x1266_StarFoxUpdate_PT
+alt: Star Fox em ação no espaço durante a atualização com multiplayer do Nintendo Switch 2
+---
+
+O clássico **Star Fox** ganhou uma atualização gratuita no Nintendo Switch 2, trazendo novidades importantes para quem queria uma experiência mais voltada para partidas entre amigos. A atualização adiciona um modo de batalha local para até quatro jogadores e também permite formar equipes para disputar partidas online usando um único console.
+
+## Multiplayer ganha destaque
+
+A principal novidade é o **modo batalha**, que permite reunir até quatro jogadores em partidas locais com tela dividida. A atualização também amplia as possibilidades online, permitindo que quatro jogadores formem uma equipe e participem das batalhas pela internet.
+
+Além do multiplayer, o jogo recebeu **três novas fases**: Katina, Setor X e Venom. O conteúdo amplia a aventura espacial e oferece novos objetivos para quem já terminou ou está explorando a campanha.
+
+## Mais conteúdo para a aventura espacial
+
+A atualização mantém a proposta clássica de Star Fox, colocando os jogadores no controle da Arwing em uma campanha de combate espacial. A história coloca a equipe contra as forças de Andross em uma jornada por diferentes regiões do Sistema Lylat.
+
+- Modo batalha local para até quatro jogadores
+- Partidas online em equipe
+- Três novas fases: Katina, Setor X e Venom
+- Atualização gratuita para a versão de Nintendo Switch 2
+
+> Dica NerdZone: se você tem amigos que também jogam no Switch 2, o novo modo para quatro jogadores é provavelmente a parte mais interessante desta atualização.
+
+A atualização foi anunciada pela Nintendo em 29 de setembro de 2026. Para saber mais sobre o conteúdo oficial, confira o [anúncio da Nintendo](https://www.nintendo.com/pt-br/whatsnew/reuna-a-tripulacao-uma-atualizacao-gratuita-esta-decolando-no-star-fox/).
+
+## Conclusão
+
+A atualização mostra que **Star Fox ainda tem espaço para receber novos conteúdos**, especialmente quando eles ampliam a experiência multiplayer. Para os fãs da série, três novas fases e partidas para até quatro jogadores são um bom motivo para voltar ao cockpit.

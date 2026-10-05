@@ -1,0 +1,39 @@
+# MODELO DE ARTIGO — notícia NerdZone
+# Categoria: Jogos
+# Imagem principal em proporção 16:9, adequada para o painel.
+
+titulo: Minecraft Dungeons II chega com uma nova dimensão e batalhas cooperativas
+categoria: Jogos
+descricao: Minecraft Dungeons II chegou trazendo a dimensão Sift, novos equipamentos, combates mais intensos e modos cooperativos.
+data: 2026-09-29
+tag: LANÇAMENTO
+imagem: https://assets.nintendo.com/image/upload/q_auto:best/f_auto/c_fill,w_813/dpr_2.0/ncom/en_US/articles/2026/minecraft-dungeons-ii-has-arrived/2250x1266_availablenow_2
+alt: Cena de Minecraft Dungeons II mostrando a nova dimensão Sift e seus perigos
+---
+
+**Minecraft Dungeons II** já está disponível e leva os jogadores para uma nova aventura na dimensão Sift, um território repleto de perigos, mistérios e novos desafios. O jogo expande a fórmula de ação e exploração da série com equipamentos, personalização e batalhas contra inimigos mais poderosos.
+
+## Uma nova dimensão para explorar
+
+A grande novidade da aventura é a dimensão **Sift**, que serve como cenário para uma jornada cheia de perigos. Os jogadores precisam explorar esse território, encontrar equipamentos e preparar seus personagens para enfrentar ameaças cada vez maiores.
+
+O objetivo é impedir que os **Illagers** espalhem sua corrupção pelo Overworld. Para isso, será necessário combinar equipamentos e personalização de estilo de jogo com uma boa estratégia durante os confrontos.
+
+## A aventura pode ser jogada em equipe
+
+Minecraft Dungeons II também aposta forte no multiplayer. É possível encarar a aventura sozinho ou formar uma equipe com amigos.
+
+- Campanha ambientada na dimensão Sift
+- Novos equipamentos para encontrar
+- Personalização do estilo de jogo
+- Cooperação local
+- Multiplayer online
+- Possibilidade de combinar jogadores locais e online
+
+> Dica NerdZone: quem gosta de jogar Minecraft em grupo pode encontrar no novo Dungeons uma experiência mais focada em ação e combate cooperativo.
+
+A Nintendo confirma versões para Nintendo Switch e Nintendo Switch 2. Mais informações estão disponíveis no [site oficial da Nintendo](https://www.nintendo.com/pt-br/whatsnew/minecraft-dungeons-ii-chegou/).
+
+## Conclusão
+
+**Minecraft Dungeons II** chega apostando em uma aventura maior, uma nova dimensão e cooperação entre jogadores. Para quem gosta da franquia Minecraft, mas procura uma experiência mais centrada em combate e exploração, o novo jogo merece atenção.

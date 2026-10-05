@@ -1,0 +1,43 @@
+# MODELO DE ARTIGO — notícia NerdZone
+# Categoria: Jogos
+# Imagem principal em proporção 16:9, adequada para o painel.
+
+titulo: Fire Emblem: Fortune's Weave já está disponível e aposta em uma nova história de RPG tático
+categoria: Jogos
+descricao: Fire Emblem: Fortune's Weave chegou ao Nintendo Switch 2 com quatro protagonistas, batalhas estratégicas e uma história envolvendo viagem no tempo.
+data: 2026-09-17
+tag: LANÇAMENTO
+imagem: https://assets.nintendo.com/image/upload/q_auto:best/f_auto/c_fill,w_813/dpr_2.0/ncom/en_US/articles/2026/take-on-the-apocalypse-in-an-epic-time-traveling-tactical-rpg/2250x1266_availablenow
+alt: Fire Emblem Fortune's Weave apresentando seus heróis em uma aventura de RPG tático
+---
+
+**Fire Emblem: Fortune's Weave** já está disponível para Nintendo Switch 2 e apresenta uma nova história dentro da tradicional fórmula de RPG tático da franquia. A aventura acontece no Dagdan Empire, onde o retorno do deus demoníaco Balor coloca o mundo diante de uma nova ameaça.
+
+## Uma nova jornada em Dagdan
+
+A história começa quando a ameaça de Balor coloca o império em uma situação desesperadora. Com a ajuda da deusa Fortuna, o jogador recebe a missão de voltar no tempo e participar dos **Heroic Games**, uma competição de elite realizada na cidade de Dagsion.
+
+Quatro personagens possuem histórias próprias e podem ser acompanhados em qualquer ordem. São eles **Cai, Dietrich, Theodora e Leda**, cada um com seus próprios objetivos e motivações.
+
+## Estratégia é a chave das batalhas
+
+Como um RPG tático, Fortune's Weave coloca grande importância no posicionamento das unidades. Distância, alcance dos ataques, classes e vantagens entre personagens podem determinar o resultado de uma batalha.
+
+O jogo também apresenta os **Blaze Arts**, ataques especiais que utilizam pontos de vida e carregam o Blaze Gauge. Existe ainda uma mecânica de retorno no tempo que permite voltar alguns turnos e tentar uma estratégia diferente.
+
+- Quatro protagonistas com histórias individuais
+- Combates táticos por turnos
+- Sistema de Blaze Arts
+- Mecânica de retorno no tempo
+- Exploração do mapa e masmorras
+- Recrutamento e desenvolvimento de aliados
+
+> Dica NerdZone: quem nunca jogou um Fire Emblem pode aproveitar os recursos de dificuldade e a possibilidade de voltar alguns turnos para aprender o sistema de combate com mais tranquilidade.
+
+Entre batalhas, os jogadores podem explorar a cidade, recrutar aliados, treinar personagens, desenvolver relações e sair pelo mapa em busca de missões, materiais e equipamentos.
+
+Mais informações podem ser encontradas no [site oficial da Nintendo](https://www.nintendo.com/pt-br/whatsnew/fire-emblem-fortunes-weave-ja-esta-disponivel-encare-o-apocalipse-em-um-rpg-epico/).
+
+## Conclusão
+
+**Fire Emblem: Fortune's Weave** combina uma nova história com os elementos estratégicos que tornaram a série conhecida. A presença de quatro protagonistas, viagem no tempo e batalhas que exigem planejamento faz do lançamento uma das opções mais interessantes para quem gosta de RPG tático.
