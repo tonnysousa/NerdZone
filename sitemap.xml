@@ -1,198 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nerdzone.com.br/</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/jogos/index.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/index.html</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/jogos/historias.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/historias.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/jogos/evolucao.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/evolucao.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/jogos/experiencia.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/experiencia.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/animes/index.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/index.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/animes/curiosidades.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/curiosidades.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/animes/classicos.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/classicos.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/animes/cultura.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/cultura.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/filmes/index.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/index.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/filmes/grandes-producoes.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/grandes-producoes.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/filmes/series.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/series.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/filmes/futuro.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/futuro.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/curiosidades/index.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/curiosidades/index.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/curiosidades/jogos.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/curiosidades/jogos.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/curiosidades/geek.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/curiosidades/geek.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/curiosidades/animes.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/curiosidades/animes.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/noticias.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/noticias.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/noticias/games.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/noticias/games.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/noticias/animes.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/noticias/animes.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/noticias/filmes.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/noticias/filmes.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/sobre.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/sobre.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/contato.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/contato.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/privacidade.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/privacidade.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/termos.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/termos.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/animes/animes-curtos.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/animes-curtos.html</loc>
     <lastmod>2026-10-02</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/curiosidades/curiosidade-gta-6-musica-album-2026.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/curiosidades/curiosidade-gta-6-musica-album-2026.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/animes/cyberpunk-edgerunners-2-netflix-outubro-2026.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/cyberpunk-edgerunners-2-netflix-outubro-2026.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/noticias/games-e-series-geek-outubro-2026-o-que-acompanhar.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/noticias/games-e-series-geek-outubro-2026-o-que-acompanhar.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/jogos/gta-6-novas-informacoes-outubro-2026.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/gta-6-novas-informacoes-outubro-2026.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/animes/naruto-novo-anime-new-york-comic-con-2026.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/naruto-novo-anime-new-york-comic-con-2026.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/noticias/new-york-comic-con-2026-guia-geek.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/noticias/new-york-comic-con-2026-guia-geek.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/filmes/supergirl-2026-novo-dcu.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/supergirl-2026-novo-dcu.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/filmes/visionquest-marvel-outubro-2026.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/visionquest-marvel-outubro-2026.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/jogos/gears-of-war-e-day-lancamento-outubro-2026.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/gears-of-war-e-day-lancamento-outubro-2026.html</loc>
     <lastmod>2026-10-03</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/jogos/ea-sports-fc-27-novidades.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/ea-sports-fc-27-novidades.html</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/jogos/fire-emblem-fortunes-weave-lancamento.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/fire-emblem-fortunes-weave-lancamento.html</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/jogos/minecraft-dungeons-ii-chegou.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/minecraft-dungeons-ii-chegou.html</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://nerdzone.com.br/artigos/jogos/star-fox-atualizacao-multiplayer.html</loc>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/star-fox-atualizacao-multiplayer.html</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes.html</loc>
+    <lastmod>2026-10-05</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
