@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /artigos/busca.html
+Disallow: /NerdZone/artigos/busca.html
 
-Sitemap: https://nerdzone.com.br/sitemap.xml
+Sitemap: https://tonnysousa.github.io/NerdZone/sitemap.xml
