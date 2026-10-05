@@ -1,0 +1,82 @@
+PUBLICAÇÃO AUTOMÁTICA DO NERDZONE
+=================================
+
+O QUE VOCÊ PRECISA TER
+- Node.js instalado (nodejs.org, versão LTS). Para conferir, abra o Prompt de
+  Comando e digite:  node -v
+
+ONDE COLOCAR OS ARQUIVOS (na pasta raiz do site, ao lado do index.html)
+
+  seu-projeto/
+  ├── publicar.js              <- este script
+  ├── rascunhos/
+  │   └── _modelo.txt          <- modelo para copiar
+  ├── index.html
+  ├── busca-index.js
+  ├── sitemap.xml
+  └── artigos/...
+
+COMO PUBLICAR UM ARTIGO
+1. Copie rascunhos/_modelo.txt e renomeie (ex.: melhores-jogos-pc-fraco.txt).
+2. Abra no Bloco de Notas, preencha o cabeçalho e escreva o texto.
+   Salve como UTF-8 (é o padrão do Bloco de Notas atual).
+3. Abra o Prompt de Comando NA PASTA DO SITE. Dica: na pasta, clique na barra
+   de endereço do Explorador de Arquivos, digite cmd e aperte Enter.
+4. Rode:   node publicar.js
+5. Abra o site no navegador e confira a página, o card e a busca.
+6. Suba para a hospedagem: a pasta artigos/, o busca-index.js e o sitemap.xml.
+
+Para ver o que aconteceria sem alterar nada:   node publicar.js --teste
+
+O QUE O SCRIPT FAZ SOZINHO
+- Cria artigos/<categoria>/<nome>.html com o visual do site, menu, rodapé,
+  descrição para o Google e imagem de compartilhamento.
+- Coloca o card no topo da lista da categoria (os mais novos aparecem primeiro).
+- Adiciona o artigo na busca (busca-index.js).
+- Adiciona a página no sitemap.xml.
+- Move o rascunho para rascunhos/publicados/.
+- Guarda uma cópia dos arquivos alterados em _backup/ antes de mexer.
+
+FORMATO DO TEXTO
+  ## Título de seção        vira um subtítulo
+  **negrito**  *itálico*
+  - item                    lista com marcadores
+  1. item                   lista numerada
+  > Dica NerdZone: texto    caixa de destaque
+  [texto](https://...)      link
+  Linha em branco separa parágrafos.
+
+PROTEÇÕES
+- Se o texto tiver algo entre [colchetes] sem preencher, o script NÃO publica
+  (para não sair "[Escreva aqui...]" no site). Use --forcar só se for de propósito.
+- Se já existir uma página com o mesmo nome que não foi criada pelo script,
+  ele não sobrescreve.
+- Avisa quando o artigo tem menos de 600 palavras ou não tem imagem.
+
+TIRAR UM ARTIGO DO SITE
+1. Coloque o remover.bat na pasta do site (ao lado do publicar.js).
+2. Dê dois cliques nele e digite o nome do artigo (o nome do arquivo, sem .html,
+   por exemplo: meu-primeiro). Se houver dois artigos com o mesmo nome em pastas
+   diferentes, ele mostra as opções; escreva a pasta junto (ex.: noticias/animes).
+3. Ele apaga a página, tira o card da lista, tira da busca e do sitemap.
+   Antes disso, guarda uma cópia em _backup/ (a página também).
+4. Suba de novo artigos/, busca-index.js e sitemap.xml e APAGUE a página antiga
+   também na hospedagem. Se só subir os arquivos novos, a página velha continua
+   no ar lá.
+Obs.: se o Google já guardou a página, ela some das buscas com o tempo. Para
+acelerar, use a ferramenta de remoção de URLs no Google Search Console.
+O rascunho original continua em rascunhos/publicados/. Não o mova de volta para
+rascunhos/, senão o artigo é publicado de novo.
+
+CORRIGIR UM ARTIGO JÁ PUBLICADO
+Copie o rascunho de rascunhos/publicados/ de volta para rascunhos/, edite e rode
+node publicar.js de novo. A página e a busca são atualizadas; o card não duplica.
+(Se mudou o título ou a descrição, ajuste o card na lista da categoria à mão.)
+
+NÃO SUBA PARA A HOSPEDAGEM
+As pastas rascunhos/ e _backup/ e o publicar.js são só para o seu computador.
+
+LIMITES
+- Não agenda publicação por data: ele publica na hora em que você roda.
+- Não atualiza o "Em destaque" da página inicial; esses 3 cards são manuais.
+- Notícias: o card entra em artigos/noticias.html e a página em artigos/noticias/.

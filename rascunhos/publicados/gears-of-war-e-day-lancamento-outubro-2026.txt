@@ -1,0 +1,51 @@
+# MODELO DE ARTIGO — preenchido para o NerdZone.
+
+titulo: Gears of War: E-Day chega nesta semana com campanha inédita e retorno de Marcus e Dom
+categoria: Jogos
+descricao: Gears of War: E-Day entra em lançamento mundial em outubro de 2026, contando a origem da Emergence Day e trazendo Marcus Fenix e Dominic Santiago de volta.
+data: 2026-10-03
+tag: Xbox
+imagem: https://4kwallpapers.com/images/walls/thumbs/26718.png
+alt: Gears of War E-Day em uma batalha com Marcus e Dom
+---
+A série Gears of War voltou ao centro das atenções com **Gears of War: E-Day**, novo capítulo desenvolvido pela The Coalition. O acesso antecipado começou em 1º de outubro para determinadas edições, enquanto o lançamento mundial está marcado para **6 de outubro de 2026**.
+
+## A origem de um dos momentos mais importantes de Gears
+
+E-Day funciona como uma história de origem. O jogo acontece **14 anos antes do primeiro Gears of War** e acompanha Marcus Fenix e Dominic Santiago durante o surgimento da ameaça Locust.
+
+A proposta permite mostrar um período que os fãs conhecem apenas pelos relatos dos jogos anteriores. Em vez de continuar a cronologia tradicional, a equipe voltou ao passado para apresentar a Emergence Day de forma jogável.
+
+## Campanha e multiplayer
+
+O jogo traz uma campanha que pode ser jogada sozinho ou em cooperação. Também existem modos multiplayer, incluindo o retorno de uma versão ampliada do modo Horde e partidas competitivas.
+
+A The Coalition também destaca novas opções de movimentação, mapas maiores e mudanças no combate, mantendo a característica principal da série: usar cobertura, posicionamento e trabalho em equipe para sobreviver.
+
+## Unreal Engine 5
+
+E-Day foi construído com **Unreal Engine 5**, permitindo que a equipe trabalhe com ambientes mais detalhados, iluminação avançada e batalhas de maior escala.
+
+O objetivo é preservar a identidade visual de Gears, mas atualizar a tecnologia para os consoles e computadores atuais.
+
+> Dica NerdZone: para quem nunca jogou Gears, E-Day também funciona como uma porta de entrada porque acontece antes da história do primeiro jogo.
+
+## Onde jogar?
+
+Gears of War: E-Day está disponível para **Xbox Series X|S e PC**, incluindo Steam e Xbox Game Pass nas modalidades anunciadas pela Microsoft.
+
+**Trailer oficial:** [Xbox Wire — Launch Gameplay Trailer](https://news.xbox.com/en-us/2026/10/01/gears-of-war-e-day-early-access-launch-trailer-xbox/)
+
+**Fonte:** [Xbox Wire](https://news.xbox.com/en-us/2026/10/01/gears-of-war-e-day-early-access-launch-trailer-xbox/)
+
+## Conclusão
+
+O retorno de Marcus e Dom ao período da Emergence Day coloca E-Day em uma posição especial dentro da cronologia de Gears. O jogo combina uma história anterior aos acontecimentos clássicos com tecnologia moderna e novos recursos de multiplayer.
+
+## Vídeo
+
+[Assistir ao vídeo/material oficial](https://news.xbox.com/en-us/2026/10/01/gears-of-war-e-day-early-access-launch-trailer-xbox/)
+
+## Fonte
+
+[Ver a fonte original](https://news.xbox.com/en-us/2026/10/01/gears-of-war-e-day-early-access-launch-trailer-xbox/)

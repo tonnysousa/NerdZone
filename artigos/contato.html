@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Fale com o NerdZone: envie sugestões, ideias ou avise sobre problemas no site.">
+    <meta name="theme-color" content="#0b0a1a">
+    <title>NerdZone - Contato</title>
+    <link rel="icon" type="image/png" href="../favicon.png">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../curiosidades.css">
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="logo">
+            <span>Nerd</span>Zone
+        </div>
+
+        <nav class="menu" aria-label="Menu principal">
+            <a href="../index.html">Início</a>
+            <a href="jogos/index.html">Jogos</a>
+            <a href="animes/index.html">Animes</a>
+            <a href="filmes/index.html">Filmes & Séries</a>
+            <a href="curiosidades/index.html">Curiosidades</a>
+            <a href="noticias.html">Notícias</a>
+            <a href="sobre.html">Sobre</a>
+            <a class="active" href="contato.html">Contato</a>
+        </nav>
+
+        <button id="themeToggle" class="theme-toggle" type="button" aria-label="Alternar tema">🌙</button>
+    </header>
+
+    <main class="contact-page">
+        <p class="contact-tag">📩 CONTATO</p>
+
+        <h1>Entre em contato</h1>
+
+        <p class="contact-intro">
+            Tem alguma sugestão, encontrou algum problema ou quer compartilhar uma ideia?
+            Envie uma mensagem. Ficaremos felizes em receber seu contato.
+        </p>
+
+        <ul class="contact-topics">
+            <li><strong>Sugestões:</strong> diga que assunto você quer ver no NerdZone.</li>
+            <li><strong>Problemas:</strong> avise se algo não funcionou direito no site.</li>
+            <li><strong>Ideias:</strong> compartilhe o que poderia deixar a experiência melhor.</li>
+        </ul>
+
+        <form class="contact-form" onsubmit="enviarMensagem(event)">
+            <label for="nome">Nome</label>
+            <input id="nome" type="text" autocomplete="name" placeholder="Seu nome" required>
+
+            <label for="email">E-mail</label>
+            <input id="email" type="email" autocomplete="email" placeholder="seuemail@exemplo.com" required>
+
+            <label for="mensagem">Mensagem</label>
+            <textarea id="mensagem" placeholder="Digite sua mensagem..." required></textarea>
+
+            <button type="submit">Enviar mensagem</button>
+            <p class="form-note">Ao enviar, você concorda com a <a href="privacidade.html">Política de Privacidade</a>.</p>
+            <p id="formStatus" class="form-status" aria-live="polite"></p>
+        </form>
+
+        <a class="back-link" href="../index.html">← Voltar para o início</a>
+    </main>
+
+    <footer>
+        <div class="logo">
+            <span>Nerd</span>Zone
+        </div>
+        <p>© 2026 NerdZone — Todos os direitos reservados.</p>
+        <p class="footer-links"><a href="privacidade.html">Política de Privacidade</a> • <a href="termos.html">Termos de Uso</a></p>
+    </footer>
+
+    <button id="topBtn" class="top-btn" type="button" aria-label="Voltar ao topo">⬆</button>
+    <script src="../script.js"></script>
+    <script>
+        // Troque SEU_ID_AQUI pelo ID do seu formulário em formspree.io
+        const FORM_ENDPOINT = "https://formspree.io/f/SEU_ID_AQUI";
+
+        async function enviarMensagem(event) {
+            event.preventDefault();
+            const status = document.getElementById("formStatus");
+            const botao = event.target.querySelector("button[type=submit]");
+            const mostrar = (texto, tipo) => { status.textContent = texto; status.className = "form-status " + tipo; };
+
+            if (FORM_ENDPOINT.includes("SEU_ID_AQUI")) {
+                mostrar("O envio ainda não foi configurado. Cadastre o formulário no Formspree e cole o ID no código.", "erro");
+                return;
+            }
+
+            botao.disabled = true;
+            mostrar("Enviando...", "ok");
+            try {
+                const resposta = await fetch(FORM_ENDPOINT, {
+                    method: "POST",
+                    headers: { "Accept": "application/json", "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        name: document.getElementById("nome").value,
+                        email: document.getElementById("email").value,
+                        message: document.getElementById("mensagem").value
+                    })
+                });
+                if (!resposta.ok) throw new Error("falha");
+                event.target.reset();
+                mostrar("Mensagem enviada! Obrigado pelo contato.", "ok");
+            } catch (erro) {
+                mostrar("Não foi possível enviar agora. Tente novamente em instantes.", "erro");
+            } finally {
+                botao.disabled = false;
+            }
+        }
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /artigos/busca.html
+
+Sitemap: https://nerdzone.com.br/sitemap.xml
