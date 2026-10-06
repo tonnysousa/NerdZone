@@ -1,0 +1,77 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: 10 curiosidades sobre Pokémon que ajudam a entender esse fenômeno
+categoria: Curiosidades
+descricao: Dos primeiros jogos às cartas e ao anime, confira dez curiosidades sobre uma das maiores franquias geek.
+data: 2026-10-06
+tag: CURIOSIDADES
+imagem: https://commons.wikimedia.org/wiki/Special:FilePath/International_Pok%C3%A9mon_logo.svg
+alt: Logotipo internacional de Pokémon
+---
+Dos primeiros jogos às cartas e ao anime, confira dez curiosidades sobre uma das maiores franquias geek.
+
+## 1. Tudo começou no Japão em 1996
+
+**Pokémon Red e Green** chegaram ao Japão em 1996 e deram início à franquia.
+
+## 2. Trocar Pokémon era parte essencial
+
+A conexão entre aparelhos permitia trocar criaturas com amigos, incentivando a interação entre jogadores.
+
+## 3. Coleção e exploração caminham juntas
+
+Procurar criaturas diferentes em vários ambientes transformou a exploração em parte central da experiência.
+
+## 4. Pikachu virou o rosto da franquia
+
+Entre centenas de criaturas, **Pikachu** se tornou o mascote mais reconhecido mundialmente.
+
+## 5. O anime aumentou muito o público
+
+A animação apresentou Pokémon a milhões de pessoas que nem necessariamente jogavam os videogames.
+
+## 6. As cartas criaram outra maneira de jogar
+
+O **Pokémon Trading Card Game** virou uma experiência colecionável e competitiva própria.
+
+## 7. Existem competições oficiais
+
+Pokémon reúne campeonatos de videogames e do jogo de cartas para jogadores de várias regiões.
+
+## 8. Cada geração renova a aventura
+
+Novas regiões trazem criaturas, personagens, mecânicas e cenários sem abandonar a ideia central.
+
+## 9. A expansão internacional ganhou força em 1998
+
+Pokémon Red e Blue e a animação ajudaram a franquia a conquistar mercados fora do Japão.
+
+## 10. Existem muitas maneiras de ser fã
+
+Batalhar, completar a Pokédex, assistir ao anime ou colecionar cartas são formas diferentes de aproveitar Pokémon.
+
+## Destaques da lista
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Tudo começou no Japão em 1996
+- Trocar Pokémon era parte essencial
+
+Lista numerada:
+
+1. Tudo começou no Japão em 1996
+2. Trocar Pokémon era parte essencial
+
+> Dica NerdZone: releia a lista com atenção e escolha a curiosidade que mais surpreendeu você. Esses pequenos detalhes são uma ótima forma de redescobrir seus universos geek favoritos.
+
+Um [link para outro site](https://pt.wikipedia.org/) aparece assim.
+
+## Conclusão
+
+Essas curiosidades mostram como esse tema ganhou importância e deixou marcas na cultura geek. Para a NerdZone, revisitar esses detalhes é uma maneira divertida de descobrir algo novo até em universos que parecem muito conhecidos.

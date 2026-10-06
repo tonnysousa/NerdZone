@@ -1,0 +1,77 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: 10 curiosidades sobre Resident Evil e seus 30 anos de terror
+categoria: Curiosidades
+descricao: Mansões, zumbis, enigmas e recursos limitados: dez fatos que marcaram a história de Resident Evil.
+data: 2026-10-06
+tag: CURIOSIDADES
+imagem: https://commons.wikimedia.org/wiki/Special:FilePath/Resident_Evil_logo.svg
+alt: Logotipo de Resident Evil
+---
+Mansões, zumbis, enigmas e recursos limitados: dez fatos que marcaram a história de Resident Evil.
+
+## 1. O primeiro jogo chegou em 1996
+
+O Resident Evil original foi lançado em **1996**, iniciando uma das séries de terror mais famosas dos games.
+
+## 2. A série popularizou o survival horror
+
+Exploração, perigo e recursos limitados ajudaram a definir a identidade do gênero.
+
+## 3. A Mansão Spencer virou clássica
+
+Corredores e salas aparentemente comuns foram transformados em fontes constantes de tensão.
+
+## 4. Chris e Jill marcaram a franquia
+
+**Chris Redfield** e **Jill Valentine** protagonizaram a aventura original e retornaram depois.
+
+## 5. Nem todo inimigo é zumbi
+
+Experimentos biológicos e mutações criaram muitas criaturas diferentes.
+
+## 6. Enigmas são importantes
+
+Chaves, símbolos e mecanismos fazem exploração e observação serem fundamentais.
+
+## 7. Raccoon City virou cenário histórico
+
+A cidade está ligada a alguns dos acontecimentos mais conhecidos da fase clássica.
+
+## 8. A série alterna terror e ação
+
+Alguns capítulos enfatizam suspense e vulnerabilidade; outros apostam em combates maiores.
+
+## 9. Resident Evil foi além dos games
+
+Filmes e animações levaram personagens e conceitos da franquia a outras mídias.
+
+## 10. Em 2026 são três décadas
+
+Trinta anos depois da estreia, Resident Evil continua sendo referência em terror nos videogames.
+
+## Destaques da lista
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- O primeiro jogo chegou em 1996
+- A série popularizou o survival horror
+
+Lista numerada:
+
+1. O primeiro jogo chegou em 1996
+2. A série popularizou o survival horror
+
+> Dica NerdZone: releia a lista com atenção e escolha a curiosidade que mais surpreendeu você. Esses pequenos detalhes são uma ótima forma de redescobrir seus universos geek favoritos.
+
+Um [link para outro site](https://pt.wikipedia.org/) aparece assim.
+
+## Conclusão
+
+Essas curiosidades mostram como esse tema ganhou importância e deixou marcas na cultura geek. Para a NerdZone, revisitar esses detalhes é uma maneira divertida de descobrir algo novo até em universos que parecem muito conhecidos.

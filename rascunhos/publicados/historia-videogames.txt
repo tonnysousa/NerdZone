@@ -1,0 +1,77 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: 10 curiosidades sobre a história dos videogames que todo gamer deveria conhecer
+categoria: Curiosidades
+descricao: Dos primeiros experimentos ao NES, relembre dez acontecimentos importantes da história dos videogames.
+data: 2026-10-06
+tag: CURIOSIDADES
+imagem: https://commons.wikimedia.org/wiki/Special:FilePath/Magnavox-Odyssey-Console-Set.jpg
+alt: Console Magnavox Odyssey e acessórios
+---
+Dos primeiros experimentos ao NES, relembre dez acontecimentos importantes da história dos videogames.
+
+## 1. Games existiam antes dos consoles domésticos
+
+Pesquisadores já experimentavam entretenimento eletrônico muito antes dos consoles chegarem às casas.
+
+## 2. Tennis for Two apareceu em 1958
+
+O experimento de **William Higinbotham** é lembrado entre os pioneiros do entretenimento eletrônico.
+
+## 3. Magnavox Odyssey chegou em 1972
+
+O **Magnavox Odyssey** ficou marcado como o primeiro console comercial para uso doméstico.
+
+## 4. Pong virou sensação
+
+O simples jogo de tênis eletrônico ajudou a popularizar os fliperamas.
+
+## 5. Cartuchos mudaram os consoles
+
+Jogos intercambiáveis permitiram construir uma biblioteca para a mesma máquina.
+
+## 6. Atari 2600 marcou uma geração
+
+O console se tornou símbolo da primeira grande expansão dos videogames domésticos.
+
+## 7. Houve uma grande crise em 1983
+
+Excesso de produtos, problemas de qualidade e mudanças no mercado derrubaram as vendas.
+
+## 8. E.T. virou símbolo da crise
+
+O jogo ficou associado a histórias sobre cartuchos descartados no Novo México.
+
+## 9. O NES ajudou na recuperação
+
+A chegada do **Nintendo Entertainment System** aos EUA em 1985 fortaleceu novamente o mercado.
+
+## 10. Games viraram cultura popular
+
+Videogames passaram a reunir narrativas, competições, comunidades e várias gerações de jogadores.
+
+## Destaques da lista
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Games existiam antes dos consoles domésticos
+- Tennis for Two apareceu em 1958
+
+Lista numerada:
+
+1. Games existiam antes dos consoles domésticos
+2. Tennis for Two apareceu em 1958
+
+> Dica NerdZone: releia a lista com atenção e escolha a curiosidade que mais surpreendeu você. Esses pequenos detalhes são uma ótima forma de redescobrir seus universos geek favoritos.
+
+Um [link para outro site](https://pt.wikipedia.org/) aparece assim.
+
+## Conclusão
+
+Essas curiosidades mostram como esse tema ganhou importância e deixou marcas na cultura geek. Para a NerdZone, revisitar esses detalhes é uma maneira divertida de descobrir algo novo até em universos que parecem muito conhecidos.

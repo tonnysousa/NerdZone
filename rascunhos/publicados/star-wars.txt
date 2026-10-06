@@ -1,0 +1,77 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: 10 curiosidades sobre Star Wars que muitos fãs ainda não conhecem
+categoria: Curiosidades
+descricao: Star Wars mudou o cinema e a cultura geek. Confira dez fatos sobre personagens, sons, efeitos e bastidores da saga.
+data: 2026-10-06
+tag: CURIOSIDADES
+imagem: https://commons.wikimedia.org/wiki/Special:FilePath/Star_Wars_Logo.svg
+alt: Logotipo de Star Wars
+---
+Star Wars mudou o cinema e a cultura geek. Confira dez fatos sobre personagens, sons, efeitos e bastidores da saga.
+
+## 1. Luke quase teve outro sobrenome
+
+Durante o desenvolvimento do primeiro filme, o protagonista chegou a ser chamado de **Luke Starkiller** antes de se tornar Luke Skywalker.
+
+## 2. O sabre de luz tem sons do mundo real
+
+O som clássico dos sabres foi criado a partir da combinação de ruídos de equipamentos elétricos, produzindo uma assinatura sonora única.
+
+## 3. Darth Vader foi trabalho de mais de um artista
+
+Na trilogia clássica, **David Prowse** deu presença física ao personagem, enquanto **James Earl Jones** forneceu sua voz marcante.
+
+## 4. Yoda ganhou vida com efeitos práticos
+
+Nos filmes clássicos, Yoda foi realizado principalmente como uma sofisticada marionete, mostrando a força dos efeitos práticos.
+
+## 5. R2-D2 também teve um ator
+
+O ator **Kenny Baker** trabalhou dentro do pequeno droide em diversas cenas da trilogia original.
+
+## 6. A abertura virou uma marca registrada
+
+O texto amarelo avançando pelo espaço apresenta o contexto da aventura e se tornou imediatamente associado à saga.
+
+## 7. Os efeitos visuais exigiram novas soluções
+
+As batalhas espaciais fizeram a equipe desenvolver e aperfeiçoar técnicas com miniaturas e movimentos controlados de câmera.
+
+## 8. A música é parte da identidade
+
+A trilha de **John Williams** ajudou a transformar personagens e acontecimentos em momentos inesquecíveis.
+
+## 9. Os produtos ampliaram o fenômeno
+
+Brinquedos, livros, quadrinhos, games e colecionáveis fizeram a franquia permanecer presente muito além do cinema.
+
+## 10. A galáxia cresceu além dos filmes
+
+Séries, animações, romances, quadrinhos e videogames expandiram enormemente o universo de Star Wars.
+
+## Destaques da lista
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Luke quase teve outro sobrenome
+- O sabre de luz tem sons do mundo real
+
+Lista numerada:
+
+1. Luke quase teve outro sobrenome
+2. O sabre de luz tem sons do mundo real
+
+> Dica NerdZone: releia a lista com atenção e escolha a curiosidade que mais surpreendeu você. Esses pequenos detalhes são uma ótima forma de redescobrir seus universos geek favoritos.
+
+Um [link para outro site](https://pt.wikipedia.org/) aparece assim.
+
+## Conclusão
+
+Essas curiosidades mostram como esse tema ganhou importância e deixou marcas na cultura geek. Para a NerdZone, revisitar esses detalhes é uma maneira divertida de descobrir algo novo até em universos que parecem muito conhecidos.

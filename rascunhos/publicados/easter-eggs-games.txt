@@ -1,0 +1,77 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: 10 curiosidades sobre Easter Eggs escondidos nos videogames
+categoria: Curiosidades
+descricao: Mensagens secretas, referências e salas escondidas mostram por que jogadores exploram cada canto dos games.
+data: 2026-10-06
+tag: CURIOSIDADES
+imagem: https://commons.wikimedia.org/wiki/Special:FilePath/Video_Game_Controller.svg
+alt: Ilustração de controle de videogame
+---
+Mensagens secretas, referências e salas escondidas mostram por que jogadores exploram cada canto dos games.
+
+## 1. Podem ser assinaturas dos criadores
+
+Alguns desenvolvedores esconderam nomes e mensagens dentro dos jogos.
+
+## 2. Outros games viram referência
+
+Objetos e frases podem homenagear títulos do mesmo estúdio ou obras inspiradoras.
+
+## 3. Filmes e séries aparecem escondidos
+
+Cinema, televisão, quadrinhos e animações frequentemente recebem homenagens nos cenários.
+
+## 4. Existem salas secretas
+
+Algumas áreas só aparecem depois de caminhos ou ações muito específicas.
+
+## 5. Muitos segredos são piadas
+
+Mensagens e objetos absurdos funcionam como recompensas para jogadores curiosos.
+
+## 6. Alguns levam anos para serem descobertos
+
+Combinações muito específicas podem permanecer desconhecidas por bastante tempo.
+
+## 7. A internet mudou a caça
+
+Fóruns, vídeos e comunidades permitem que fãs compartilhem pistas e resolvam mistérios juntos.
+
+## 8. Segredos podem contar histórias
+
+Alguns Easter Eggs acrescentam informações sobre personagens e acontecimentos.
+
+## 9. Referências atravessam jogos
+
+Estúdios podem repetir símbolos e objetos como uma espécie de assinatura interna.
+
+## 10. Caçar segredos muda a forma de jogar
+
+O jogador passa a observar sons, placas, texturas e lugares que normalmente ignoraria.
+
+## Destaques da lista
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Podem ser assinaturas dos criadores
+- Outros games viram referência
+
+Lista numerada:
+
+1. Podem ser assinaturas dos criadores
+2. Outros games viram referência
+
+> Dica NerdZone: releia a lista com atenção e escolha a curiosidade que mais surpreendeu você. Esses pequenos detalhes são uma ótima forma de redescobrir seus universos geek favoritos.
+
+Um [link para outro site](https://pt.wikipedia.org/) aparece assim.
+
+## Conclusão
+
+Essas curiosidades mostram como esse tema ganhou importância e deixou marcas na cultura geek. Para a NerdZone, revisitar esses detalhes é uma maneira divertida de descobrir algo novo até em universos que parecem muito conhecidos.

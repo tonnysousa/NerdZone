@@ -1,0 +1,77 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: 10 curiosidades sobre Mario e sua história nos videogames
+categoria: Curiosidades
+descricao: De Jumpman ao Reino Cogumelo, conheça dez fatos sobre a trajetória do personagem mais famoso da Nintendo.
+data: 2026-10-06
+tag: CURIOSIDADES
+imagem: https://commons.wikimedia.org/wiki/Special:FilePath/Mario_Series_Logo.svg
+alt: Logotipo da série Mario
+---
+De Jumpman ao Reino Cogumelo, conheça dez fatos sobre a trajetória do personagem mais famoso da Nintendo.
+
+## 1. Mario começou como Jumpman
+
+Em **Donkey Kong**, de 1981, o personagem era conhecido como Jumpman.
+
+## 2. Shigeru Miyamoto criou Mario
+
+O personagem nasceu do trabalho de **Shigeru Miyamoto**, uma das figuras mais importantes da Nintendo.
+
+## 3. Ele também foi chamado de Mr. Video
+
+Durante a criação, Miyamoto chegou a usar o nome **Mr. Video** para o personagem.
+
+## 4. O visual nasceu com poucos pixels
+
+As limitações técnicas exigiam um personagem reconhecível mesmo com pouquíssimos detalhes na tela.
+
+## 5. Fases foram planejadas em papel
+
+Partes de Super Mario Bros. foram desenhadas e planejadas em **papel milimetrado**.
+
+## 6. Super Mario Bros. chegou em 1985
+
+O jogo se tornou um marco dos títulos de plataforma e do NES.
+
+## 7. Mario pratica muitos esportes
+
+O personagem já participou de corridas, tênis, futebol, golfe e várias outras atividades.
+
+## 8. Os power-ups sempre mudam
+
+Além de cogumelos e flores, Mario já recebeu folhas, roupas, sinos e muitos outros poderes.
+
+## 9. Existe o MAR10 Day
+
+A escrita inglesa **Mar. 10** lembra visualmente MARIO e originou a celebração de 10 de março.
+
+## 10. Mario atravessou gerações
+
+O personagem se adaptou a diversas plataformas da Nintendo sem perder sua identidade.
+
+## Destaques da lista
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Mario começou como Jumpman
+- Shigeru Miyamoto criou Mario
+
+Lista numerada:
+
+1. Mario começou como Jumpman
+2. Shigeru Miyamoto criou Mario
+
+> Dica NerdZone: releia a lista com atenção e escolha a curiosidade que mais surpreendeu você. Esses pequenos detalhes são uma ótima forma de redescobrir seus universos geek favoritos.
+
+Um [link para outro site](https://pt.wikipedia.org/) aparece assim.
+
+## Conclusão
+
+Essas curiosidades mostram como esse tema ganhou importância e deixou marcas na cultura geek. Para a NerdZone, revisitar esses detalhes é uma maneira divertida de descobrir algo novo até em universos que parecem muito conhecidos.

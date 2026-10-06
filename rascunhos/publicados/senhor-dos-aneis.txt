@@ -1,0 +1,77 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: 10 curiosidades sobre O Senhor dos Anéis e a Terra-média
+categoria: Curiosidades
+descricao: Idiomas, mapas, povos e mitologia: conheça dez detalhes sobre o universo criado por J.R.R. Tolkien.
+data: 2026-10-06
+tag: CURIOSIDADES
+imagem: https://commons.wikimedia.org/wiki/Special:FilePath/One_Ring_Blender_Render.png
+alt: Representação do Um Anel
+---
+Idiomas, mapas, povos e mitologia: conheça dez detalhes sobre o universo criado por J.R.R. Tolkien.
+
+## 1. Tolkien criou idiomas
+
+Como filólogo, **J.R.R. Tolkien** desenvolveu línguas para diferentes povos da Terra-média.
+
+## 2. A mitologia é maior que a trilogia
+
+O Senhor dos Anéis representa apenas uma parte de uma história que atravessa várias eras.
+
+## 3. O Hobbit veio primeiro
+
+Bilbo Bolseiro já havia sido apresentado aos leitores em **O Hobbit**.
+
+## 4. O Um Anel conecta as aventuras
+
+O objeto encontrado por Bilbo se torna o centro do conflito enfrentado por Frodo.
+
+## 5. A Sociedade reúne povos diferentes
+
+Hobbits, homens, elfo, anão e mago precisam cooperar durante a missão.
+
+## 6. Os mapas fazem parte da narrativa
+
+Montanhas, rios, reinos e distâncias influenciam diretamente a viagem.
+
+## 7. O passado parece realmente antigo
+
+Ruínas, canções e referências históricas dão enorme profundidade à Terra-média.
+
+## 8. Existem sistemas de escrita
+
+Tolkien também desenvolveu formas de escrita associadas aos povos de seu universo.
+
+## 9. Amizade é fundamental
+
+A relação entre Frodo e Sam mostra que a saga não depende apenas de batalhas e magia.
+
+## 10. A influência na fantasia é enorme
+
+Livros, RPGs, jogos e filmes posteriores foram profundamente influenciados pela obra de Tolkien.
+
+## Destaques da lista
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Tolkien criou idiomas
+- A mitologia é maior que a trilogia
+
+Lista numerada:
+
+1. Tolkien criou idiomas
+2. A mitologia é maior que a trilogia
+
+> Dica NerdZone: releia a lista com atenção e escolha a curiosidade que mais surpreendeu você. Esses pequenos detalhes são uma ótima forma de redescobrir seus universos geek favoritos.
+
+Um [link para outro site](https://pt.wikipedia.org/) aparece assim.
+
+## Conclusão
+
+Essas curiosidades mostram como esse tema ganhou importância e deixou marcas na cultura geek. Para a NerdZone, revisitar esses detalhes é uma maneira divertida de descobrir algo novo até em universos que parecem muito conhecidos.
