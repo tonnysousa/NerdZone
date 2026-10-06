@@ -24,7 +24,10 @@ const fs = require('fs');
 const path = require('path');
 
 const RAIZ = __dirname;
-const SITE = 'https://tonnysousa.github.io/NerdZone';const DIR_RASCUNHOS = path.join(RAIZ, 'rascunhos');
+
+const SITE = 'https://tonnysousa.github.io/NerdZone';
+const DIR_RASCUNHOS = path.join(RAIZ, 'rascunhos');
+
 const DIR_PUBLICADOS = path.join(DIR_RASCUNHOS, 'publicados');
 const DIR_ARTIGOS = path.join(RAIZ, 'artigos');
 const ARQ_BUSCA = path.join(RAIZ, 'busca-index.js');
