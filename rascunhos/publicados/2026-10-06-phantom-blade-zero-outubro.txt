@@ -1,0 +1,39 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Phantom Blade Zero chega ao PS5 em 29 de outubro
+categoria: Jogos
+descricao: Jogo de ação wuxia da S-Game tem lançamento confirmado para 29 de outubro no PlayStation 5.
+data: 2026-10-06
+tag: LANÇAMENTO
+imagem: https://4kwallpapers.com/images/walls/thumbs/27156.jpg
+alt: Phantom Blade Zero, jogo de ação wuxia da S-Game
+---
+**Phantom Blade Zero** está confirmado para chegar ao PlayStation 5 em **29 de outubro de 2026**. Desenvolvido pela S-Game, o título mistura uma narrativa inspirada em wuxia com combates de ação e foi desenvolvido na Unreal Engine 5.
+
+## Soul tem apenas 66 dias de vida
+
+O protagonista **Soul** precisa enfrentar assassinos e investigar conspirações enquanto vive sob um limite de 66 dias. A S-Game também confirmou diferentes opções de dificuldade e a participação de Donnie Yen como consultor criativo e intérprete de Mó Yuan.
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Lançamento no PS5 em 29 de outubro de 2026
+- Donnie Yen participa como consultor criativo e por captura de movimento
+
+Lista numerada:
+
+1. Explorar o mundo de Wulin
+2. Montar diferentes configurações de combate e armas
+
+> Dica NerdZone: As opções de dificuldade foram pensadas tanto para quem deseja priorizar a história quanto para jogadores em busca de desafios maiores.
+
+Um [link para outro site](https://blog.br.playstation.com/2026/08/17/a-apresentacao-de-phantom-blade-zero-no-state-of-play-explora-mais-o-combate-e-o-mundo-de-wulin/) aparece assim.
+
+## Conclusão
+
+Phantom Blade Zero chama atenção pela combinação de ação rápida, estética wuxia e participação de Donnie Yen. Com a data marcada, outubro terá mais um lançamento importante para jogadores de PS5.

@@ -1,0 +1,39 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Star Wars: Galactic Racer leva os jogadores de volta a Jakku
+categoria: Jogos
+descricao: Novo game de corrida explora Jakku e transforma veículos repulsores de Star Wars em protagonistas das competições.
+data: 2026-10-06
+tag: DESTAQUE
+imagem: https://4kwallpapers.com/images/walls/thumbs/8206.jpg
+alt: Veículo de corrida de Star Wars Galactic Racer em Jakku
+---
+O recém-lançado **Star Wars: Galactic Racer** leva os jogadores de volta a **Jakku**, planeta conhecido pelos fãs da saga. Desta vez, o foco não está em batalhas com sabres de luz, mas nas corridas de alta velocidade.
+
+## Jakku vira pista de corrida
+
+A Lucasfilm apresentou o jogo como uma experiência de corrida dentro do universo Star Wars. Produzido pela Fuse Games em colaboração com a Lucasfilm Games, o título foi lançado em 6 de outubro para PS5, Xbox Series X|S e PC.
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Jakku está entre os cenários destacados oficialmente
+- O jogo é dedicado às corridas com veículos repulsores
+
+Lista numerada:
+
+1. Explorar as pistas e ambientes do universo Star Wars
+2. Experimentar diferentes veículos e estilos de corrida
+
+> Dica NerdZone: Para fãs que lembram das corridas de pods da saga, Galactic Racer explora justamente o lado de velocidade e competição desse universo.
+
+Um [link para outro site](https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer) aparece assim.
+
+## Conclusão
+
+Transformar Jakku e outros ambientes de Star Wars em pistas abre espaço para uma experiência diferente dentro da franquia. Galactic Racer mostra que a galáxia pode render muito mais do que aventuras tradicionais de ação.

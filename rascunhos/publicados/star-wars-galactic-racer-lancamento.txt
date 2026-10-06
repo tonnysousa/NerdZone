@@ -1,0 +1,39 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Star Wars: Galactic Racer chega com corridas em uma galáxia muito distante
+categoria: Jogos
+descricao: Novo jogo de corrida de Star Wars é lançado em 6 de outubro para PS5, Xbox Series X|S e PC.
+data: 2026-10-06
+tag: LANÇAMENTO
+imagem: https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer
+alt: Star Wars Galactic Racer, novo jogo de corrida da franquia
+---
+**Star Wars: Galactic Racer** chegou mundialmente em **6 de outubro de 2026** para PlayStation 5, Xbox Series X|S e PC. O projeto da Fuse Games com a Lucasfilm Games coloca as corridas de veículos repulsores no centro da experiência.
+
+## Corridas e Star Wars no mesmo jogo
+
+O anúncio oficial destaca o retorno a **Jakku** e apresenta uma experiência dedicada às competições de alta velocidade do universo Star Wars. O jogador assume o papel de um piloto em um circuito cheio de rivais e diferentes veículos.
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Disponível para PS5, Xbox Series X|S e PC
+- Lançamento mundial em 6 de outubro de 2026
+
+Lista numerada:
+
+1. Escolher e personalizar veículos de corrida
+2. Explorar os circuitos inspirados no universo Star Wars
+
+> Dica NerdZone: Galactic Racer é especialmente interessante para quem gosta das corridas e veículos que aparecem ao longo da franquia Star Wars.
+
+Um [link para outro site](https://www.starwars.com/news/star-wars-galactic-racer-reveal-trailer) aparece assim.
+
+## Conclusão
+
+Star Wars: Galactic Racer aposta em uma parte do universo que combina naturalmente com videogames: velocidade. A proposta oferece uma alternativa aos tradicionais jogos de ação da franquia.

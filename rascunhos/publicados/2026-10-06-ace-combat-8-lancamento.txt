@@ -1,0 +1,39 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Ace Combat 8: Wings of Theve já está disponível para consoles e PC
+categoria: Jogos
+descricao: Novo capítulo da série de combate aéreo chegou em 2 de outubro para PS5, Xbox Series X|S e PC.
+data: 2026-10-06
+tag: LANÇAMENTO
+imagem: https://4kwallpapers.com/images/walls/thumbs/27351.jpg
+alt: Caças em Ace Combat 8 Wings of Theve
+---
+**Ace Combat 8: Wings of Theve** foi lançado mundialmente em **2 de outubro de 2026**. O novo título da Bandai Namco Aces marca a primeira entrada principal da série em sete anos.
+
+## Combate aéreo com tecnologia de nova geração
+
+O jogo utiliza tecnologia proprietária da Bandai Namco Aces e aposta em grandes cenários, nuvens realistas e condições climáticas que podem afetar as partidas. A campanha acontece no universo fictício tradicional da série.
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Disponível para PS5, Xbox Series X|S e PC
+- Primeiro Ace Combat principal em sete anos
+
+Lista numerada:
+
+1. Entrar na campanha de combate aéreo
+2. Experimentar diferentes caças e armamentos
+
+> Dica NerdZone: Apesar dos aviões inspirados em modelos reais, Ace Combat mantém sua tradição de combinar elementos de aviação com ação de estilo arcade.
+
+Um [link para outro site](https://www.bandainamcoent.com/news/ace-combat-8-wings-of-theve-takes-flight-today) aparece assim.
+
+## Conclusão
+
+Ace Combat 8 representa o retorno de uma das séries mais conhecidas de combate aéreo. O novo capítulo aproveita a geração atual para ampliar escala, clima e fidelidade visual.

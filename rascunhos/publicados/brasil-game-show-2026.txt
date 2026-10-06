@@ -1,0 +1,39 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Brasil Game Show 2026 acontece de 9 a 12 de outubro em São Paulo
+categoria: Notícias
+descricao: BGS 2026 ocupa o Distrito Anhembi entre 9 e 12 de outubro com lançamentos, estações de jogos, convidados e experiências para fãs.
+data: 2026-10-06
+tag: EVENTOS
+imagem: https://distritoanhembi.com.br/events/brasil-game-show-bgs/
+alt: Brasil Game Show 2026 no Distrito Anhembi
+---
+A **Brasil Game Show 2026** acontece entre **9 e 12 de outubro**, no Distrito Anhembi, em São Paulo. A programação anunciada reúne lançamentos, convidados, criação de conteúdo, competições e experiências para o público gamer.
+
+## O que o público encontrará na BGS
+
+A página do Distrito Anhembi destaca centenas de estações de jogos, títulos de grandes desenvolvedoras e da cena independente, além de painéis e atividades ligadas ao mercado. O evento ocupará os espaços Expo 1 a 5.
+
+Lista com marcadores (cada linha começa com um traço e um espaço):
+
+- Data: 9 a 12 de outubro de 2026
+- Local: Distrito Anhembi, Avenida Olavo Fontoura, 1209, São Paulo
+
+Lista numerada:
+
+1. Conferir a programação oficial antes da visita
+2. Verificar horários e atrações escolhidas
+
+> Dica NerdZone: A própria página do evento recomenda confirmar horários com a organização, pois eles podem sofrer alterações.
+
+Um [link para outro site](https://distritoanhembi.com.br/events/brasil-game-show-bgs/) aparece assim.
+
+## Conclusão
+
+A BGS continua sendo um dos grandes encontros do calendário gamer brasileiro. Em 2026, o evento volta a reunir lançamentos, comunidade e experiências presenciais durante quatro dias em São Paulo.
