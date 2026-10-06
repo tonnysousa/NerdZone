@@ -1,0 +1,83 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Black Clover está de volta: 2ª temporada estreia e inicia a batalha contra a Tríade das Trevas
+categoria: Animes
+descricao: Após uma longa espera, Black Clover retorna com sua 2ª temporada, trazendo Asta e os Cavaleiros Mágicos para a invasão ao Reino de Spade.
+data: 2026-10-06
+tag: NOTÍCIAS
+imagem: https://4kwallpapers.com/images/walls/thumbs/22979.jpg
+alt: Black Clover 2ª temporada com Asta e os Cavaleiros Mágicos
+---
+Depois de uma longa espera, **Black Clover finalmente está de volta**. A 2ª temporada do anime estreou em **3 de outubro de 2026** na Crunchyroll, trazendo novamente Asta, Yuno e os Cavaleiros Mágicos para uma das fases mais importantes da história.
+
+O retorno acontece depois do episódio 170, que encerrou a fase anterior do anime. A nova temporada começa pelo **episódio 171, “The Battle Begins”**, e coloca os personagens no caminho do confronto contra o Reino de Spade e a perigosa Tríade das Trevas.
+
+## Black Clover retorna com o Studio Pierrot
+
+A nova temporada continua sendo produzida pelo **Studio Pierrot**, responsável pela adaptação anterior de Black Clover.
+
+De acordo com a programação oficial divulgada pela Crunchyroll, a história acompanha **Asta e os Cavaleiros Mágicos invadindo o Reino de Spade para tentar salvar seus capitães das mãos da Tríade das Trevas**.
+
+Isso significa que o retorno do anime não começa com uma aventura isolada. A história avança diretamente para o conflito que vinha sendo preparado antes da pausa da série.
+
+## O episódio 171 já está disponível
+
+O primeiro episódio da nova temporada foi lançado em **3 de outubro de 2026**.
+
+Na Crunchyroll, ele aparece como o episódio 171 e recebeu o título **“The Battle Begins”**.
+
+A descrição oficial mostra Asta treinando com Nacht enquanto os Cavaleiros Mágicos se preparam para iniciar o ataque destinado a recuperar **Yami e Vangeance**.
+
+O episódio está disponível com áudio em japonês e possui legendas em vários idiomas, incluindo **português do Brasil**.
+
+## A batalha contra o Reino de Spade
+
+A nova fase coloca o Reino de Spade no centro da história.
+
+Asta e seus aliados precisam enfrentar uma ameaça muito maior enquanto tentam resgatar seus capitães. A **Tríade das Trevas** ocupa uma posição central nesse conflito e representa um dos maiores desafios enfrentados pelos Cavaleiros Mágicos.
+
+Para Asta, essa batalha também coloca à prova tudo o que ele aprendeu durante seu treinamento.
+
+- A 2ª temporada estreou em 3 de outubro de 2026
+- O Studio Pierrot continua responsável pela produção
+- Asta e os Cavaleiros Mágicos partem para o Reino de Spade
+- Yami e Vangeance precisam ser resgatados
+- A Tríade das Trevas está no centro do novo conflito
+- O episódio 171 já está disponível com legenda em português do Brasil
+
+## Onde assistir Black Clover
+
+A **Crunchyroll** confirmou a exibição da 2ª temporada de Black Clover na América do Sul.
+
+Além da América do Sul, a plataforma anunciou disponibilidade em regiões como América do Norte, América Central, Europa, África, Oceania, Oriente Médio, CEI, Subcontinente Indiano e Sudeste Asiático.
+
+A Crunchyroll também confirmou que **Black Clover está entre os animes que receberão dublagem durante a temporada de outubro de 2026**, embora o anúncio tenha informado que a data da versão dublada ainda seria divulgada.
+
+Lista numerada:
+
+1. Acesse a Crunchyroll para acompanhar os novos episódios
+2. Procure pela 2ª temporada de Black Clover e pelo episódio 171
+
+> Dica NerdZone: quem ficou muito tempo longe de Black Clover pode rever os últimos episódios da fase anterior antes de começar a nova temporada, principalmente para relembrar a preparação para o conflito envolvendo o Reino de Spade.
+
+Um [link para outro site](https://www.crunchyroll.com/pt-br/news/seasonal-lineup/2026/9/15/animes-temporada-outubro-2026-crunchyroll) aparece assim.
+
+## Um dos grandes retornos dos animes em 2026
+
+Black Clover ficou durante anos sem continuar sua série principal de televisão depois do episódio 170. Por isso, a chegada dessa nova temporada representa um momento importante para quem acompanhou a trajetória de Asta desde o começo.
+
+O protagonista continua perseguindo seu grande objetivo de se tornar o **Rei Mago**, mesmo tendo nascido em um mundo dominado pela magia sem possuir magia própria.
+
+Sua antimagia, seus companheiros dos Touros Negros e sua rivalidade com Yuno continuam sendo elementos fundamentais da história, mas agora o conflito contra o Reino de Spade eleva novamente os riscos para os personagens.
+
+## Conclusão
+
+O retorno de **Black Clover** finalmente aconteceu. A estreia da 2ª temporada em 3 de outubro coloca Asta e os Cavaleiros Mágicos novamente em ação e inicia uma fase marcada pelo confronto contra o Reino de Spade e a Tríade das Trevas.
+
+Para quem esperava desde o fim do episódio 170 para acompanhar a continuação da história no anime, o episódio 171 representa exatamente aquilo que os fãs aguardavam: **Black Clover voltou oficialmente e uma nova grande batalha começou**.
