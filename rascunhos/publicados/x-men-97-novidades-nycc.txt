@@ -1,0 +1,33 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: X-Men 97 volta aos holofotes com novidades na New York Comic Con
+categoria: Animes
+descricao: Marvel destacou o futuro de X-Men 97 durante seu painel de animações na New York Comic Con 2026.
+data: 2026-10-14
+tag: NOVIDADES
+imagem: https://buteconerd.com.br/wp-content/uploads/2024/05/xmen-97.jpg
+alt: Imagem ilustrativa de X-Men 97 volta aos holofotes com novidades na New York Comic Con
+---
+A animação **X-Men 97** voltou a chamar a atenção dos fãs durante a New York Comic Con 2026. A Marvel incluiu a série entre os projetos apresentados em seu painel de televisão e animação.
+
+## O que foi divulgado
+
+A produção retoma o espírito da série clássica dos mutantes, misturando conflitos pessoais, temas sociais e batalhas contra ameaças poderosas. O espaço dedicado ao projeto no evento mostra como os X-Men continuam relevantes na estratégia de animação da editora.
+
+## O que esperar daqui para frente
+
+O principal interesse dos fãs agora está nos próximos capítulos da equipe. É importante separar o material efetivamente apresentado no evento das especulações sobre personagens, datas e possíveis participações especiais.
+
+> Dica NerdZone: acompanhe os canais oficiais antes de compartilhar rumores como se fossem anúncios confirmados.
+
+Fonte da informação: [confira a publicação original](https://themainstreetmouse.com/2026/10/09/everything-marvel-announced-at-nycc-2026-zodiac-x-men-97-daredevil-and-more/).
+
+## Conclusão
+
+O assunto merece atenção de quem acompanha o mundo geek. A NerdZone seguirá de olho nas próximas informações confirmadas para manter os leitores atualizados.

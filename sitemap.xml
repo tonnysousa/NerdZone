@@ -7,7 +7,7 @@
   </url>
   <url>
     <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/index.html</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -27,7 +27,7 @@
   </url>
   <url>
     <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/index.html</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -47,7 +47,7 @@
   </url>
   <url>
     <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/index.html</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -67,7 +67,7 @@
   </url>
   <url>
     <loc>https://tonnysousa.github.io/NerdZone/artigos/curiosidades/index.html</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -87,7 +87,7 @@
   </url>
   <url>
     <loc>https://tonnysousa.github.io/NerdZone/artigos/noticias.html</loc>
-    <lastmod>2026-10-07</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -214,7 +214,8 @@
     <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/tokyo-revengers-guerra-dos-tres-titas.html</loc>
     <lastmod>2026-10-06</lastmod>
     <priority>0.6</priority>
-
+  </url>
+  <url>
     <loc>https://tonnysousa.github.io/NerdZone/artigos/animes.html</loc>
     <lastmod>2026-10-05</lastmod>
     <priority>0.8</priority>
@@ -388,6 +389,121 @@
   <url>
     <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/gta-vi-novembro.html</loc>
     <lastmod>2026-10-07</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/cyberpunk-edgerunners-2.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/diarios-apotecaria-filme.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/madoka-witch-colaboracao.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/rascal-does-not-dream-filme-final.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/yumene-connect.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/crystal-lake-previa-nycc.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/noticias/dc-comic-con-2026.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/dc-universe-online-worldkillers.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/demolidor-reuniao-defensores.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/dragon-ball-super-beerus-nycc.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/marvel-zodiac-serie.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/star-wars-galactic-racer-outubro.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/visionquest-surpresa-comic-con.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/x-men-97-novidades-nycc.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/arquivo-x-ryan-coogler.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/cyberpunk-2077-filme.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/dr-stone-terraforming.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/filmes/helluva-boss-terceira-temporada.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/jogos/he-man-dragon-pearl.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/noticias/magneto-end-of-days.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/naruto-ninku-crossover.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/curiosidades/naruto-novo-manga-kishimoto.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tonnysousa.github.io/NerdZone/artigos/animes/nues-exorcist-anime.html</loc>
+    <lastmod>2026-10-14</lastmod>
     <priority>0.6</priority>
   </url>
 </urlset>

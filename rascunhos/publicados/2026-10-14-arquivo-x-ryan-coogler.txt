@@ -1,0 +1,33 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Arquivo X terá nova versão comandada por Ryan Coogler
+categoria: Filmes & Séries
+descricao: Nova versão de Arquivo X terá Danielle Deadwyler e Himesh Patel como agentes do FBI.
+data: 2026-10-14
+tag: SÉRIES
+imagem: https://farofeiros.com.br/wp-content/uploads/2026/02/Ryan-Coogler-fara-reboot-Arquivo-X-FAROFEIROS.COM_.BR_.jpg
+alt: Arquivo X terá nova versão comandada por Ryan Coogler
+---
+**Arquivo X** prepara um retorno à televisão com uma nova versão desenvolvida por **Ryan Coogler**, cineasta de Pantera Negra. O Hulu aprovou o projeto, que terá distribuição pelo Disney+ na América Latina.
+
+## Uma nova dupla de investigadores
+
+Danielle Deadwyler e Himesh Patel interpretarão agentes do FBI envolvidos em investigações de fenômenos inexplicáveis. A proposta mantém a mistura de suspense, ciência e mistério que marcou a série original.
+
+## Equipe e estreia
+
+Coogler escreveu e dirigirá o episódio piloto, além de atuar como produtor executivo. Jennifer Yale será showrunner. A data de lançamento ainda não foi confirmada.
+
+> Dica NerdZone: confira sempre os canais oficiais antes de compartilhar datas e anúncios de lançamentos.
+
+Fonte: [consulte a publicação de referência](https://f5.folha.uol.com.br/televisao/2026/10/disney-tera-nova-versao-de-arquivo-x-dirigida-por-ryan-coogler.shtml).
+
+## Conclusão
+
+A novidade amplia as possibilidades para fãs e criadores de conteúdo geek. A NerdZone continuará acompanhando os próximos anúncios oficiais para trazer atualizações confirmadas.

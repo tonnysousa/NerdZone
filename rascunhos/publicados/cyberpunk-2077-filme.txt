@@ -1,0 +1,33 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Cyberpunk 2077 vai ganhar filme live-action da Paramount
+categoria: Filmes & Séries
+descricao: Paramount desenvolve adaptação de Cyberpunk 2077 em parceria com CD Projekt Red.
+data: 2026-10-09
+tag: CINEMA
+imagem: https://www.portalr10.com/media/image_bank/2026/10/thumbs/johnny-silverhand-cyberpunk-2077-20261014114914.png.1200x0_q70_crop-top.png
+alt: Cyberpunk 2077 vai ganhar filme live-action da Paramount
+---
+A Paramount Pictures está desenvolvendo um filme em live-action inspirado no universo de **Cyberpunk 2077**. O projeto foi divulgado em outubro de 2026 e envolve a produtora do jogo, CD Projekt Red, além de Lorenzo di Bonaventura.
+
+## O que já foi confirmado
+
+A produção está em desenvolvimento. Ainda não foram anunciados elenco, diretor ou data de estreia. Isso significa que os fãs devem tratar eventuais listas de atores como especulação, não como confirmação.
+
+## Por que a adaptação chama atenção
+
+Cyberpunk 2077 construiu um universo de megacorporações, implantes cibernéticos e conflitos pessoais em Night City. Uma adaptação cinematográfica pode explorar esse cenário, mas a história específica do filme ainda não foi revelada.
+
+> Dica NerdZone: confira sempre os canais oficiais antes de compartilhar datas e anúncios de lançamentos.
+
+Fonte: [consulte a publicação de referência](https://www.reuters.com/business/media-telecom/paramount-develop-cyberpunk-2077-film-lifting-cd-projekt-reds-shares-2026-10-09/).
+
+## Conclusão
+
+A novidade amplia as possibilidades para fãs e criadores de conteúdo geek. A NerdZone continuará acompanhando os próximos anúncios oficiais para trazer atualizações confirmadas.

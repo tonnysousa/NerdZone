@@ -1,0 +1,33 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: DC leva quadrinhos, games e experiências de Superman à New York Comic Con
+categoria: Notícias
+descricao: DC apresentou programação com quadrinhos, encontros com artistas e experiências temáticas na NYCC 2026.
+data: 2026-10-14
+tag: NOVIDADES
+imagem: https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/5947/9e3bfac8182219c8781e0f64a2464946.jpg
+alt: Imagem ilustrativa de DC leva quadrinhos, games e experiências de Superman à New York Comic Con
+---
+A **DC** marcou presença na New York Comic Con 2026 com uma programação que reuniu quadrinhos, colecionáveis, artistas e atividades para fãs. A participação ocorreu entre os dias 8 e 11 de outubro, no Javits Center, em Nova York.
+
+## O que foi divulgado
+
+A empresa preparou espaços dedicados a produtos exclusivos, sessões de autógrafos e experiências interativas. Uma das atrações anunciadas foi uma atividade de cosplay com vídeos em câmera lenta, reforçando a importância da participação do público em eventos desse tipo.
+
+## O que esperar daqui para frente
+
+Mais do que anunciar histórias, a DC utiliza convenções para aproximar leitores, criadores e colecionadores. O evento também reforça como os quadrinhos se conectam a jogos, filmes, séries e à cultura cosplay.
+
+> Dica NerdZone: acompanhe os canais oficiais antes de compartilhar rumores como se fossem anúncios confirmados.
+
+Fonte da informação: [confira a publicação original](https://www.dc.com/blog/2026-10-05/dc-returns-to-new-york-comic-con-this-week).
+
+## Conclusão
+
+O assunto merece atenção de quem acompanha o mundo geek. A NerdZone seguirá de olho nas próximas informações confirmadas para manter os leitores atualizados.

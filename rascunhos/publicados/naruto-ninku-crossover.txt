@@ -1,0 +1,33 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Naruto e Ninku se encontram em anime crossover de quatro episódios
+categoria: Animes
+descricao: VIZ anuncia crossover de Naruto com Ninku durante a New York Comic Con 2026.
+data: 2026-10-10
+tag: ANÚNCIO
+imagem: https://assets.rendageek.com.br/wp-content/uploads/2026/10/1791666193-5bd849c83bc3ba689e8321891b44ec3d-1024x576-1.png
+alt: Naruto e Ninku se encontram em anime crossover de quatro episódios
+---
+O painel **NARUTO: What’s Next?**, realizado na New York Comic Con 2026, revelou um crossover animado de **Naruto** e **Ninku**. A produção terá quatro episódios.
+
+## Um encontro entre duas gerações
+
+Masashi Kishimoto já citou Ninku como influência importante para a criação de Naruto. Segundo a VIZ, Kishimoto e Koji Kiriyama, criador de Ninku, supervisionam a nova história.
+
+## O que ainda falta saber
+
+O anúncio apresentou material promocional, mas não confirmou uma data definitiva de estreia para os quatro episódios. O encontro oferece aos fãs a oportunidade de conhecer uma das influências do universo ninja de Naruto.
+
+> Dica NerdZone: confira sempre os canais oficiais antes de compartilhar datas e anúncios de lançamentos.
+
+Fonte: [consulte a publicação de referência](https://www.viz.com/press-releases/v/1006772).
+
+## Conclusão
+
+A novidade amplia as possibilidades para fãs e criadores de conteúdo geek. A NerdZone continuará acompanhando os próximos anúncios oficiais para trazer atualizações confirmadas.

@@ -316,14 +316,47 @@ function gravarIndice(indice) {
   gravar(ARQ_BUSCA, `window.NZ_INDEX = ${JSON.stringify(indice)};\n`);
 }
 
+// Confere a estrutura dos blocos antes e depois de atualizar o sitemap.
+// Esta verificacao evita publicar sobre um XML com URLs misturadas.
+function validarSitemap(xml) {
+  const erro = mensagem => { throw new Error(`sitemap.xml invalido: ${mensagem}`); };
+  if (!/<urlset\b[^>]*xmlns=["']http:\/\/www\.sitemaps\.org\/schemas\/sitemap\/0\.9["'][^>]*>/.test(xml)) {
+    erro('nao encontrei a abertura <urlset> com o namespace de sitemap');
+  }
+  if ((xml.match(/<\/urlset\s*>/g) || []).length !== 1) erro('fechamento </urlset> ausente ou repetido');
+  const blocos = [...xml.matchAll(/<url\s*>([\s\S]*?)<\/url\s*>/g)];
+  const aberturas = (xml.match(/<url\s*>/g) || []).length;
+  const fechamentos = (xml.match(/<\/url\s*>/g) || []).length;
+  if (aberturas !== fechamentos || blocos.length !== aberturas) erro('blocos <url> abertos ou fechados incorretamente');
+  const urls = new Set();
+  for (const [i, bloco] of blocos.entries()) {
+    const locs = [...bloco[1].matchAll(/<loc>([\s\S]*?)<\/loc>/g)];
+    const datas = [...bloco[1].matchAll(/<lastmod>[\s\S]*?<\/lastmod>/g)];
+    const prioridades = [...bloco[1].matchAll(/<priority>[\s\S]*?<\/priority>/g)];
+    if (locs.length !== 1) erro(`bloco ${i + 1} tem ${locs.length} enderecos <loc>; deve ter exatamente 1`);
+    if (datas.length > 1 || prioridades.length > 1) erro(`bloco ${i + 1} repete <lastmod> ou <priority>`);
+    const url = locs[0][1].trim();
+    if (!url.startsWith(SITE + '/')) erro(`URL fora do NerdZone: ${url}`);
+    if (urls.has(url)) erro(`URL repetida: ${url}`);
+    urls.add(url);
+  }
+  // Verificacao complementar: tags de localizacao fora dos blocos <url>.
+  const resto = xml.replace(/<url\s*>[\s\S]*?<\/url\s*>/g, '');
+  if (/<loc\s*>|<\/loc\s*>/.test(resto)) erro('tag <loc> fora de um bloco <url>');
+  return true;
+}
+
 function atualizarSitemap(xml, urlRel, hoje, listaRel) {
+  validarSitemap(xml);
   const loc = `${SITE}/artigos/${urlRel}`;
   if (!xml.includes(`<loc>${loc}</loc>`)) {
     xml = xml.replace('</urlset>', `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${hoje}</lastmod>\n    <priority>0.6</priority>\n  </url>\n</urlset>`);
   } else {
     xml = trocaLastmod(xml, loc, hoje);
   }
-  return trocaLastmod(xml, `${SITE}/artigos/${listaRel}`, hoje);
+  xml = trocaLastmod(xml, `${SITE}/artigos/${listaRel}`, hoje);
+  validarSitemap(xml);
+  return xml;
 }
 
 function trocaLastmod(xml, loc, hoje) {
@@ -444,6 +477,11 @@ function remover(nome) {
     process.exit(1);
   }
 
+  try { validarSitemap(fs.readFileSync(ARQ_SITEMAP, 'utf8')); } catch (e) {
+    console.error('✖ ' + e.message);
+    console.error('Corrija o sitemap antes de remover artigos.');
+    process.exit(1);
+  }
   const nomesCat = Object.values(CATEGORIAS).map(c => c.nome);
   const indice = lerIndice();
   const entrada = nome.replace(/\.html?$/i, '').replace(/\\/g, '/');
@@ -518,7 +556,13 @@ function main() {
     return;
   }
 
-  const estado = { indice: lerIndice(), sitemap: fs.readFileSync(ARQ_SITEMAP, 'utf8') };
+  const xmlInicial = fs.readFileSync(ARQ_SITEMAP, 'utf8');
+  try { validarSitemap(xmlInicial); } catch (e) {
+    console.error('✖ ' + e.message);
+    console.error('Corrija o sitemap antes de publicar. Nenhum rascunho foi alterado.');
+    process.exit(1);
+  }
+  const estado = { indice: lerIndice(), sitemap: xmlInicial };
   const backup = TESTE ? null : fazerBackup();
   let ok = 0;
   let erros = 0;

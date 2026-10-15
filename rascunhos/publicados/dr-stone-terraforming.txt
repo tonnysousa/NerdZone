@@ -1,0 +1,33 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Dr. Stone: Terraforming terá adaptação em anime após fim da série
+categoria: Animes
+descricao: Epílogo do mangá Dr. Stone ganhará nova produção animada; formato e estreia não foram confirmados.
+data: 2026-10-10
+tag: ANIMES
+imagem: https://cdn.ome.lt/ANgCdjyYmxRKucl1i84vLkUkEFw=/1200x630/smart/filters:format(webp)/extras/conteudos/Captura_de_tela_2025-05-22_154518.png
+alt: Dr. Stone: Terraforming terá adaptação em anime após fim da série
+---
+A franquia **Dr. Stone** continuará nas telas com uma adaptação do capítulo especial **Terraforming**, que faz parte do epílogo do mangá original de Riichiro Inagaki e Boichi.
+
+## Qual história será adaptada
+
+Terraforming aparece no volume 27 e acompanha acontecimentos posteriores ao encerramento da trama principal. A novidade foi divulgada em 10 de outubro no site oficial do anime.
+
+## Quando estreia
+
+Até o anúncio, não havia confirmação sobre formato, equipe completa ou data de lançamento. Portanto, ainda não é possível afirmar se será filme, especial ou série de episódios.
+
+> Dica NerdZone: confira sempre os canais oficiais antes de compartilhar datas e anúncios de lançamentos.
+
+Fonte: [consulte a publicação de referência](https://dr-stone.jp/news/6340/?ref_c=event).
+
+## Conclusão
+
+A novidade amplia as possibilidades para fãs e criadores de conteúdo geek. A NerdZone continuará acompanhando os próximos anúncios oficiais para trazer atualizações confirmadas.

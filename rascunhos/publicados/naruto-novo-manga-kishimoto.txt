@@ -1,0 +1,33 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Masashi Kishimoto prepara novo mangá de Naruto
+categoria: Curiosidades
+descricao: New York Comic Con 2026 revela novo projeto de mangá de Naruto e expansão da franquia.
+data: 2026-10-10
+tag: CURIOSIDADES
+imagem: https://criticalhits.com.br/wp-content/uploads/2026/10/2109040790261424570.jpg
+alt: Masashi Kishimoto prepara novo mangá de Naruto
+---
+Além do crossover com Ninku, a New York Comic Con 2026 trouxe outra novidade: **Masashi Kishimoto**, criador de Naruto, está trabalhando em um novo projeto de mangá relacionado à franquia.
+
+## Por que isso é importante
+
+Naruto encerrou sua publicação original em 2014, mas continuou influente em animações, jogos e novas histórias. A participação de Kishimoto em um novo mangá desperta interesse por sua ligação direta com a obra.
+
+## Outros anúncios do evento
+
+A VIZ também anunciou um jogo de cartas de Naruto para junho de 2027 e planos de levar um jogo mobile a mais mercados. Detalhes adicionais do novo mangá ainda serão apresentados oficialmente.
+
+> Dica NerdZone: confira sempre os canais oficiais antes de compartilhar datas e anúncios de lançamentos.
+
+Fonte: [consulte a publicação de referência](https://www.viz.com/press-releases/v/1006772).
+
+## Conclusão
+
+A novidade amplia as possibilidades para fãs e criadores de conteúdo geek. A NerdZone continuará acompanhando os próximos anúncios oficiais para trazer atualizações confirmadas.
