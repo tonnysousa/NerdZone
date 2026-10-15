@@ -1,0 +1,43 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Mister Miracle: conheça Scott Free e Big Barda antes da animação
+categoria: Filmes & Séries
+descricao: Mister Miracle é um dos personagens mais interessantes do universo DC e pode render uma animação muito diferente das histórias tradicionais de super-h.
+data: 2026-10-15
+tag: DC
+imagem: https://mir-s3-cdn-cf.behance.net/projects/404/859cd283260627.Y3JvcCw0MDQsMzE2LDI5Nyw0NTc.jpg
+alt:
+---
+Mister Miracle é um dos personagens mais interessantes do universo DC e pode render uma animação muito diferente das histórias tradicionais de super-heróis.
+
+## Quem é Scott Free?
+
+Criado por Jack Kirby, Scott Free é um mestre das fugas ligado à mitologia dos Novos Deuses. Sua trajetória mistura espetáculo, conflitos familiares e a busca por liberdade.
+
+## Por que Big Barda é importante
+
+Big Barda é uma guerreira poderosa e uma parceira fundamental de Scott. A relação entre os dois ajuda a humanizar uma mitologia marcada por batalhas cósmicas.
+
+## O que vale observar
+
+- Conferir informações em fontes oficiais antes de publicar atualizações.
+- Diferenciar fatos confirmados de expectativas e interpretações.
+- Acompanhar novos anúncios para atualizar a matéria quando necessário.
+
+1. Consulte a fonte indicada abaixo.
+2. Confira datas e disponibilidade para o público brasileiro.
+3. Atualize esta matéria quando surgirem informações verificáveis.
+
+> Dica NerdZone: informação bem conferida é tão importante quanto um bom título. Esta matéria não apresenta rumores como fatos.
+
+[Confira a fonte de referência](https://www.dc.com/).
+
+## Conclusão
+
+Mister Miracle é um assunto que merece atenção por seu potencial de render boas conversas entre fãs. Aqui na NerdZone, preferimos acompanhar os fatos com cuidado e explorar o que torna cada universo interessante.

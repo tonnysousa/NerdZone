@@ -1,0 +1,43 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Anime de fantasia sobre aventureiro e filha aposta em vínculos familiares
+categoria: Animes
+descricao: Nem toda aventura de fantasia precisa girar apenas em torno de batalhas. Histórias sobre personagens que constroem uma família durante a jornada podem.
+data: 2026-10-15
+tag: FANTASIA
+imagem: https://m.media-amazon.com/images/I/71ckpa07bKL.jpg
+alt:
+---
+Nem toda aventura de fantasia precisa girar apenas em torno de batalhas. Histórias sobre personagens que constroem uma família durante a jornada podem oferecer um lado mais emocional do gênero.
+
+## Aventura e cuidado
+
+O encontro entre um aventureiro experiente e uma criança em situação difícil permite explorar proteção, confiança e amadurecimento.
+
+## Por que esse tipo de história funciona
+
+A alternância entre desafios externos e pequenos momentos cotidianos cria identificação. Datas, título internacional definitivo e disponibilidade no Brasil devem ser confirmados antes de divulgar uma estreia.
+
+## O que vale observar
+
+- Conferir informações em fontes oficiais antes de publicar atualizações.
+- Diferenciar fatos confirmados de expectativas e interpretações.
+- Acompanhar novos anúncios para atualizar a matéria quando necessário.
+
+1. Consulte a fonte indicada abaixo.
+2. Confira datas e disponibilidade para o público brasileiro.
+3. Atualize esta matéria quando surgirem informações verificáveis.
+
+> Dica NerdZone: informação bem conferida é tão importante quanto um bom título. Esta matéria não apresenta rumores como fatos.
+
+[Confira a fonte de referência](https://www.crunchyroll.com/pt-br/).
+
+## Conclusão
+
+Anime de fantasia sobre aventureiro e filha aposta em vínculos familiares é um assunto que merece atenção por seu potencial de render boas conversas entre fãs. Aqui na NerdZone, preferimos acompanhar os fatos com cuidado e explorar o que torna cada universo interessante.

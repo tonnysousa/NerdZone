@@ -1,0 +1,43 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Hugh Jackman e Robin Hood: o apelo das versões sombrias de lendas
+categoria: Filmes & Séries
+descricao: Robin Hood já ganhou adaptações aventureiras, românticas e dramáticas. Uma interpretação mais sombria da lenda oferece outro caminho para discutir o f.
+data: 2026-10-15
+tag: CINEMA
+imagem: https://ingresso-a.akamaihd.net/b2b/production/uploads/articles-content/eba0c974-9980-43c1-b9e7-ef94dffad3ed.jpg
+alt:
+---
+Robin Hood já ganhou adaptações aventureiras, românticas e dramáticas. Uma interpretação mais sombria da lenda oferece outro caminho para discutir o famoso fora da lei.
+
+## Por que reinventar Robin Hood
+
+O personagem reúne temas de injustiça social, rebeldia e moralidade. Uma versão envelhecida ou marcada pela violência pode questionar o custo de viver como uma lenda.
+
+## O que acompanhar sobre o filme
+
+Antes de anunciar datas de streaming no Brasil, vale verificar a distribuidora e a plataforma responsável. Trailer, elenco e classificação indicativa também ajudam a contextualizar a proposta.
+
+## O que vale observar
+
+- Conferir informações em fontes oficiais antes de publicar atualizações.
+- Diferenciar fatos confirmados de expectativas e interpretações.
+- Acompanhar novos anúncios para atualizar a matéria quando necessário.
+
+1. Consulte a fonte indicada abaixo.
+2. Confira datas e disponibilidade para o público brasileiro.
+3. Atualize esta matéria quando surgirem informações verificáveis.
+
+> Dica NerdZone: informação bem conferida é tão importante quanto um bom título. Esta matéria não apresenta rumores como fatos.
+
+[Confira a fonte de referência](https://www.imdb.com/).
+
+## Conclusão
+
+Hugh Jackman e Robin Hood é um assunto que merece atenção por seu potencial de render boas conversas entre fãs. Aqui na NerdZone, preferimos acompanhar os fatos com cuidado e explorar o que torna cada universo interessante.

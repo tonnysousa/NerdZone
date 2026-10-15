@@ -1,0 +1,43 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Yumene Connect: romance e ficção científica em uma combinação curiosa
+categoria: Animes
+descricao: Histórias que misturam encontros improváveis, alienígenas e dificuldades de socialização têm um apelo especial entre leitores de comédia romântica.
+data: 2026-10-15
+tag: MANGÁS
+imagem: https://i.ebayimg.com/images/g/dzAAAOSwInlng3O0/s-l1200.jpg
+alt:
+---
+Histórias que misturam encontros improváveis, alienígenas e dificuldades de socialização têm um apelo especial entre leitores de comédia romântica.
+
+## A força de uma premissa inesperada
+
+Quando uma personagem extraterrestre entra na rotina de um estudante, situações comuns podem ganhar um tom de humor e estranhamento. O contraste entre mundos é um recurso clássico da ficção científica.
+
+## O que verificar sobre a adaptação
+
+Antes de publicar nomes de estúdios, elenco ou datas, é importante consultar a editora e os perfis oficiais da produção. Esta matéria apresenta o conceito e seu potencial, sem antecipar detalhes não confirmados.
+
+## O que vale observar
+
+- Conferir informações em fontes oficiais antes de publicar atualizações.
+- Diferenciar fatos confirmados de expectativas e interpretações.
+- Acompanhar novos anúncios para atualizar a matéria quando necessário.
+
+1. Consulte a fonte indicada abaixo.
+2. Confira datas e disponibilidade para o público brasileiro.
+3. Atualize esta matéria quando surgirem informações verificáveis.
+
+> Dica NerdZone: informação bem conferida é tão importante quanto um bom título. Esta matéria não apresenta rumores como fatos.
+
+[Confira a fonte de referência](https://www.animenewsnetwork.com/).
+
+## Conclusão
+
+Yumene Connect é um assunto que merece atenção por seu potencial de render boas conversas entre fãs. Aqui na NerdZone, preferimos acompanhar os fatos com cuidado e explorar o que torna cada universo interessante.

@@ -1,0 +1,43 @@
+# MODELO DE ARTIGO — copie este arquivo, troque o nome e preencha.
+# Exemplo de nome: melhores-jogos-pc-fraco.txt  (sem acento, sem espaço)
+# Linhas que começam com # são ignoradas.
+#
+# Categorias aceitas: Jogos, Animes, Filmes & Séries, Curiosidades, Notícias
+# data: no formato AAAA-MM-DD (se deixar vazio, usa o dia de hoje)
+# tag: opcional, aparece depois da categoria (ex.: GUIAS, LISTAS, REVIEW)
+# imagem: endereço https:// de uma imagem que você tem o direito de usar
+titulo: Crystal Lake: por que a origem de Jason desperta tanto interesse?
+categoria: Filmes & Séries
+descricao: A franquia Sexta-Feira 13 é lembrada por Jason Voorhees, mas sua mitologia envolve acontecimentos anteriores à imagem clássica do assassino mascarado.
+data: 2026-10-15
+tag: TERROR
+imagem: https://m.media-amazon.com/images/M/MV5BYmQ1NzBhOWItZDRiNS00MjRlLTg5Y2EtMjI1Y2YyMDY2Y2VhXkEyXkFqcGc@._V1_QL75_UX500_CR0,230,500,281_.jpg
+alt:
+---
+A franquia Sexta-Feira 13 é lembrada por Jason Voorhees, mas sua mitologia envolve acontecimentos anteriores à imagem clássica do assassino mascarado.
+
+## Uma franquia construída em mistério
+
+O primeiro filme estabeleceu elementos que seriam revisitados e transformados pelas continuações. A relação entre Jason, Pamela Voorhees e Crystal Lake é central para a identidade da série.
+
+## O potencial de um prelúdio
+
+Uma produção situada antes dos filmes pode explorar atmosfera e personagens sem depender apenas de referências conhecidas. Estreia e disponibilidade brasileira precisam ser confirmadas nas plataformas oficiais.
+
+## O que vale observar
+
+- Conferir informações em fontes oficiais antes de publicar atualizações.
+- Diferenciar fatos confirmados de expectativas e interpretações.
+- Acompanhar novos anúncios para atualizar a matéria quando necessário.
+
+1. Consulte a fonte indicada abaixo.
+2. Confira datas e disponibilidade para o público brasileiro.
+3. Atualize esta matéria quando surgirem informações verificáveis.
+
+> Dica NerdZone: informação bem conferida é tão importante quanto um bom título. Esta matéria não apresenta rumores como fatos.
+
+[Confira a fonte de referência](https://www.peacocktv.com/).
+
+## Conclusão
+
+Crystal Lake é um assunto que merece atenção por seu potencial de render boas conversas entre fãs. Aqui na NerdZone, preferimos acompanhar os fatos com cuidado e explorar o que torna cada universo interessante.
